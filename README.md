@@ -1,2 +1,8 @@
-# github-final-project
-This repository contains project work for the IBM Full Stack Software Developer Professional Certificate on Coursera. It includes hands-on code, assignments, and applications covering front-end, back-end, databases, and DevOps tools.
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
